@@ -26,3 +26,6 @@ body{
 	padding:0 10px;
 	text-align:center;
 }
+.prev_month, .next_month{
+	cursor:pointer;
+}
